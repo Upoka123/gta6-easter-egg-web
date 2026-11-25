@@ -1,0 +1,317 @@
+{
+  "site": {
+    "title": "GTA VI Easter Egg",
+    "logo": "",
+    "pinned": {
+      "src": "uploads/mwtu9hld-gta-6-vice-city-easter-egg-map.webp",
+      "caption": "Térkép"
+    }
+  },
+  "rules": {
+    "title": "Szabályok",
+    "forbidden": [
+      {
+        "id": "f1",
+        "text": "Ne változtasd meg a 12 alállomás sorrendjét. Mindegyiket a meghatározott sorrendben kell aktiválnod."
+      },
+      {
+        "id": "f2",
+        "text": "Ne nyomj meg másik gombot, kizárólag az adott állomáshoz tartozót."
+      },
+      {
+        "id": "f3",
+        "text": "Ne hagyj ki egyetlen állomást sem."
+      },
+      {
+        "id": "0bh65nqo",
+        "text": "Ne próbáld meg nappal aktiválni a végső részt. A Turtle Head Power Station Reactor Two csak 19:00 és 06:00 között jelenik meg."
+      },
+      {
+        "id": "ut4np31i",
+        "text": "Ne keverd össze a kapcsolókat és a gombokat. Az állomásokon először az áramellátást kell bekapcsolni."
+      },
+      {
+        "id": "95odgbiy",
+        "text": "Ne használj Fast Travelt (taxi, busz, vonat stb.) a folyamat során."
+      },
+      {
+        "id": "nifu8z5w",
+        "text": "Ne válts karaktert Jason és Lucia között."
+      },
+      {
+        "id": "bqv76jue",
+        "text": "Ne nyomj meg másik kapcsolót az adott állomáson."
+      },
+      {
+        "id": "i4nc4lan",
+        "text": "Ne halj meg a folyamat során, mert elveszítheted az addigi előrehaladást."
+      },
+      {
+        "id": "421dw2fd",
+        "text": "Ne szakítsd meg a küldetés folyamatát, és ne térj el az előírt sorrendtől."
+      }
+    ],
+    "blocks": []
+  },
+  "steps": [
+    {
+      "id": "s1",
+      "title": "1. lépés",
+      "blocks": [
+        {
+          "id": "s1b1",
+          "type": "text",
+          "html": "Menj a szigeten található rádiótoronyhoz, majd mássz fel a felső helyiségbe. Keresd meg a két posztert, kapcsold fel az áramkapcsolót, majd nyomd meg a gombot. Ha a tévén megjelenik a jelzés, sikeresen aktiváltad a kezdőpontot."
+        },
+        {
+          "id": "s1b2",
+          "type": "image",
+          "src": "uploads/a2ad957c-lepes-1.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "2. lépés",
+      "blocks": [
+        {
+          "id": "s2b1",
+          "type": "text",
+          "html": "<p>Menj az alállomás épületéhez, keresd meg a kapcsolóhelyiséget, majd nyomd meg a D gombot.</p>"
+        },
+        {
+          "id": "s2b2",
+          "type": "image",
+          "src": "uploads/mwv29ssb-1.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "3. lépés",
+      "blocks": [
+        {
+          "id": "s3b1",
+          "type": "text",
+          "html": "<p>Menj az alállomás épületéhez, keresd meg a kapcsolóhelyiséget, majd nyomd meg a D gombot.</p>"
+        },
+        {
+          "id": "s3b2",
+          "type": "image",
+          "src": "uploads/9df3162c-lepes-3.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "lmxklu3o",
+      "title": "4. lépés",
+      "blocks": [
+        {
+          "id": "rcvg5ie5",
+          "type": "text",
+          "html": "Menj az alállomás épületéhez, keresd meg a kapcsolóhelyiséget, majd nyomd meg a . gombot."
+        },
+        {
+          "id": "27ra217o",
+          "type": "image",
+          "src": "uploads/mwv2a04e-3.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "i1zl9040",
+      "title": "5. lépés",
+      "blocks": [
+        {
+          "id": "2z82gsog",
+          "type": "text",
+          "html": "Menj az alállomás épületéhez, keresd meg a kapcsolóhelyiséget, majd nyomd meg az A gombot."
+        },
+        {
+          "id": "g5kvd0fn",
+          "type": "image",
+          "src": "uploads/mwv2a2oo-4.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "pq1l1shm",
+      "title": "6. lépés",
+      "blocks": [
+        {
+          "id": "jpjy5fb3",
+          "type": "text",
+          "html": "Menj az alállomáshoz, keresd meg a kapcsolóhelyiséget, majd húzd meg a . kart."
+        },
+        {
+          "id": "nbjdrdqe",
+          "type": "image",
+          "src": "uploads/mwv2a5s1-5.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "ph2z7i8u",
+      "title": "7. lépés",
+      "blocks": [
+        {
+          "id": "1lniu3c8",
+          "type": "text",
+          "html": "Menj az alállomáshoz, keresd meg a kapcsolóhelyiséget, majd húzd meg az A kart."
+        },
+        {
+          "id": "y4or29dn",
+          "type": "image",
+          "src": "uploads/mwv2a8iw-6.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "0hc2ls8l",
+      "title": "8. lépés",
+      "blocks": [
+        {
+          "id": "a1xdwjgu",
+          "type": "text",
+          "html": "Menj az alállomás épületéhez, keresd meg a kapcsolóhelyiséget, majd nyomd meg az A gombot."
+        },
+        {
+          "id": "cwcw945b",
+          "type": "image",
+          "src": "uploads/mwv2abfk-7.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "k9m2emdo",
+      "title": "9. lépés",
+      "blocks": [
+        {
+          "id": "33fjpn1h",
+          "type": "text",
+          "html": "Menj az alállomás épületéhez, keresd meg a kapcsolóhelyiséget, majd nyomd meg az A gombot."
+        },
+        {
+          "id": "4qn2qkd8",
+          "type": "image",
+          "src": "uploads/mwv2aeoi-8.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "2xtas7n0",
+      "title": "10. LÉPÉS",
+      "blocks": [
+        {
+          "id": "wn4jpz2y",
+          "type": "text",
+          "html": "Menj az alállomáshoz, keresd meg a kapcsolóhelyiséget, majd húzd meg a . kart."
+        },
+        {
+          "id": "32rh6hfi",
+          "type": "image",
+          "src": "uploads/mwv2ahdm-9.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "ihf380qb",
+      "title": "11. LÉPÉS",
+      "blocks": [
+        {
+          "id": "kobf3osi",
+          "type": "text",
+          "html": "Menj az alállomáshoz, keresd meg a kapcsolóhelyiséget, majd húzd meg a W kart."
+        },
+        {
+          "id": "3ew1el7q",
+          "type": "image",
+          "src": "uploads/mwv2ak9c-10.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "4r5q92gm",
+      "title": "12. LÉPÉS",
+      "blocks": [
+        {
+          "id": "qrgp0qx6",
+          "type": "text",
+          "html": "Menj az alállomáshoz, keresd meg a kapcsolóhelyiséget, majd húzd meg a D kart."
+        },
+        {
+          "id": "bmuhfd5f",
+          "type": "image",
+          "src": "uploads/mwv2anv0-11.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "awpbpjt1",
+      "title": "13. LÉPÉS",
+      "blocks": [
+        {
+          "id": "1uy3aqlk",
+          "type": "text",
+          "html": "Menj az alállomáshoz, keresd meg a kapcsolóhelyiséget, majd húzd meg a W kart."
+        },
+        {
+          "id": "jm9scdsh",
+          "type": "image",
+          "src": "uploads/mwv2c7rg-image.webp",
+          "caption": ""
+        },
+        {
+          "id": "hx2c2qy5",
+          "type": "image",
+          "src": "uploads/mwv2avrs-12.webp",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "gzmgsedx",
+      "title": "14. LÉPÉS",
+      "blocks": [
+        {
+          "id": "m6rhc65v",
+          "type": "text",
+          "html": "Ha mindent jól csináltál, kapsz egy SMS-t egy ismeretlen számról, abban benne van, hová menj."
+        }
+      ]
+    },
+    {
+      "id": "yjzo8vxg",
+      "title": "15. LÉPÉS",
+      "blocks": [
+        {
+          "id": "hvi52fn2",
+          "type": "text",
+          "html": "Keresd meg a 2-es reaktort, és érkezz este 19:00 és reggel 06:00 között. Húzd meg a kart majd lépj be a megnyíló átjárón, és fedezd fel, mi vár rád a túloldalon!"
+        },
+        {
+          "id": "6r6qpuj2",
+          "type": "image",
+          "src": "uploads/0db14866-lepes-15.png",
+          "caption": ""
+        }
+      ]
+    }
+  ],
+  "finish": {
+    "title": "Kész!",
+    "blocks": []
+  }
+}
